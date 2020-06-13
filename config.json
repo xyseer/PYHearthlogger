@@ -1,0 +1,30 @@
+{
+
+    "BUDDY_ROOT_PATH": "C:\\Hearthbuddy\\517卡卡偶数萨",
+    "CLIENT_PATH": "G:\\Hearthstone\\Battle.net\\Battle.net Launcher.exe",
+    "CLIENT_LOGIN_WINDOW_NAME": "暴雪战网登录",
+    "CLIENT_WINDOW_NAME": "暴雪战网",
+    "GAME_WINDOW_NAME": "Hearthstone",
+    "BUDDY_WINDOW_NAME": "炉石兄弟[2020.5.17.1] 修复 by 贴吧【maxiori】",
+
+    "ACCOUNTS": [{
+        "ACCOUNT": "@163.com",
+        "PASSWORD": "r"
+    }, {
+        "ACCOUNT": "@163.com",
+        "PASSWORD": "r"
+    }],
+    "ACTIVE_ACCOUNT": 2,
+
+    "NORMAL_DELAY": 1,
+    "CLIENT_DELAY": 20,
+    "LOGIN_DELAY": 10,
+    "BUDDY_START_DELAY": 40,
+    "GAME_START_DELAY": 15,
+    "TIME_PER_GAME": 1800,
+
+    "AUTO_CONCEDE_ENABLE": false,
+
+    "BUDDY_WIDTH": 468,
+    "BUDDY_HEIGHT": 157
+}
